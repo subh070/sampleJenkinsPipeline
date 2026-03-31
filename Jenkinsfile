@@ -7,7 +7,7 @@ pipeline {
                 echo 'Cloning GitHub repository...'
 
                 // Replace with your GitHub repo URL
-                git branch: 'main', url: 'https://github.com/your-username/your-repo.git'
+                git branch: 'main', url: 'https://github.com/subh070/sampleJenkinsPipeline.git'
             }
         }
     }
